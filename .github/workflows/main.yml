@@ -11,3 +11,4 @@ jobs:
       - run: netlify login
       - run: netlify status
       - run: netlify sites:list
+      - run: netlify deploy --dir=./dist/
