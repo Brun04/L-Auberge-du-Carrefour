@@ -1,4 +1,4 @@
-= L'auberge du Carrefour !
+= L'auberge du Carrefour ca marche !
 
 An introduction to http://asciidoc.org[AsciiDoc].
 image:url["https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Emblem-favorites.svg/1200px-Emblem-favorites.svg.png", 300, 300]
