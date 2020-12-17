@@ -9,9 +9,6 @@ jobs:
       - run: sudo apt-get update && sudo apt-get install -y asciidoctor
       - run: make all
       - run: ls -la
-      - run: netlify login
-      - run: netlify status
-      - run: netlify sites:list
       - run: netlify deploy --prod --dir=./dist/
         env:
           NETLIFY_AUTH_TOKEN:  ${{ secrets.NETLIFY_AUTH_TOKEN }}
