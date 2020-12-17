@@ -1,7 +1,7 @@
 = L'auberge du Carrefour !
 
 An introduction to http://asciidoc.org[AsciiDoc].
-//image:url["https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Emblem-favorites.svg/1200px-Emblem-favorites.svg.png", 300, 300]
+image:url["https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Emblem-favorites.svg/1200px-Emblem-favorites.svg.png", 300, 300]
 == Menu
 
 * item 1
