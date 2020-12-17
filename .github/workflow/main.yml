@@ -4,6 +4,4 @@ jobs:
   dire_bonjour:
     runs-on: ubuntu-20.04
     steps:
-    - uses: actions/checkout@v2
-    - run: make all
-    - run: ls -l # Liste les fichier du répertoire courant
+    - run: echo "Bonjour"
